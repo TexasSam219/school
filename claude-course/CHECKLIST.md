@@ -6,6 +6,18 @@ Tick a box by changing `[ ]` to `[x]` (edit this file on GitHub with the ✏️ 
 
 ---
 
+## My setup cell (API Fundamentals, Real World Prompting, Tool Use)
+
+Paste this in place of the lesson's setup cell (the one with `load_dotenv`), then run it first:
+
+```python
+%pip install anthropic
+from google.colab import userdata
+from anthropic import Anthropic
+
+client = Anthropic(api_key=userdata.get('ANTHROPIC_API_KEY'))
+```
+
 ## Every lesson: the 2 changes to make in Colab
 
 1. **Load the key** — replace any `load_dotenv` / `os.getenv` cell (or `API_KEY = "your_api_key_here"`) with:
@@ -29,6 +41,8 @@ Also: click **Run anyway** on the warning, then **Copy to Drive** to save your o
 | `SyntaxError` | Typo or layout problem — check the line number and the `^` arrow |
 | `NotFoundError` | The thing you asked for doesn't exist (usually an old model name) |
 | `BadRequestError` | The request is set up wrong (e.g. a label like `"content"` was changed) |
+| `ModuleNotFoundError` | Package not installed in this notebook — run `%pip install anthropic` (each notebook starts empty) |
+| `NameError: ... is not defined` | A setup cell wasn't run yet (Colab forgets after you close the tab) — run the cells from the top |
 | `AuthenticationError` | API key missing or wrong — check the 🔑 secret name and Notebook access |
 
 ---
