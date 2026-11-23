@@ -43,6 +43,8 @@ Also: click **Run anyway** on the warning, then **Copy to Drive** to save your o
 | `BadRequestError` | The request is set up wrong (e.g. a label like `"content"` was changed) |
 | `ModuleNotFoundError` | Package not installed in this notebook — run `%pip install anthropic` (each notebook starts empty) |
 | `NameError: ... is not defined` | A setup cell wasn't run yet (Colab forgets after you close the tab) — run the cells from the top |
+| `AttributeError: 'ThinkingBlock' ... no attribute 'text'` | Newer models put their thinking first — use `response.content[-1].text` instead of `[0]` |
+| `TimeoutException: Requesting secret ... timed out` | Turn on Notebook access in the 🔑 panel and click Grant access when asked |
 | `AuthenticationError` | API key missing or wrong — check the 🔑 secret name and Notebook access |
 
 ---
