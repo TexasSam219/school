@@ -61,7 +61,7 @@ Also: click **Run anyway** on the warning, then **Copy to Drive** to save your o
 ## Course 2 — Prompt Engineering Interactive Tutorial
 
 - [ ] 0. Tutorial How-To — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/00_Tutorial_How-To.ipynb)
-- [ x] 1. Basic Prompt Structure — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/01_Basic_Prompt_Structure.ipynb)
+- [x] 1. Basic Prompt Structure — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/01_Basic_Prompt_Structure.ipynb)
 - [x] 2. Being Clear and Direct — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/02_Being_Clear_and_Direct.ipynb)
 - [x] 3. Assigning Roles — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/03_Assigning_Roles_Role_Prompting.ipynb)
 - [ ] 4. Separating Data and Instructions — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/04_Separating_Data_and_Instructions.ipynb)
