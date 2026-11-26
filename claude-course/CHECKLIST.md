@@ -52,7 +52,7 @@ Also: click **Run anyway** on the warning, then **Copy to Drive** to save your o
 ## Course 1 — API Fundamentals
 
 - [x] 1. Getting Started — [open](https://githubtocolab.com/anthropics/courses/blob/master/anthropic_api_fundamentals/01_getting_started.ipynb) — *done Nov 22, 2026, plus exercise (chicken joke!)*
-- [ ] 2. Messages Format — [open](https://githubtocolab.com/anthropics/courses/blob/master/anthropic_api_fundamentals/02_messages_format.ipynb)
+- [ x] 2. Messages Format — [open](https://githubtocolab.com/anthropics/courses/blob/master/anthropic_api_fundamentals/02_messages_format.ipynb)
 - [ ] 3. Models — [open](https://githubtocolab.com/anthropics/courses/blob/master/anthropic_api_fundamentals/03_models.ipynb)
 - [ ] 4. Parameters — [open](https://githubtocolab.com/anthropics/courses/blob/master/anthropic_api_fundamentals/04_parameters.ipynb)
 - [ ] 5. Streaming — [open](https://githubtocolab.com/anthropics/courses/blob/master/anthropic_api_fundamentals/05_Streaming.ipynb)
@@ -61,8 +61,8 @@ Also: click **Run anyway** on the warning, then **Copy to Drive** to save your o
 ## Course 2 — Prompt Engineering Interactive Tutorial
 
 - [ ] 0. Tutorial How-To — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/00_Tutorial_How-To.ipynb)
-- [ ] 1. Basic Prompt Structure — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/01_Basic_Prompt_Structure.ipynb)
-- [ ] 2. Being Clear and Direct — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/02_Being_Clear_and_Direct.ipynb)
+- [ x] 1. Basic Prompt Structure — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/01_Basic_Prompt_Structure.ipynb)
+- [x] 2. Being Clear and Direct — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/02_Being_Clear_and_Direct.ipynb)
 - [ ] 3. Assigning Roles — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/03_Assigning_Roles_Role_Prompting.ipynb)
 - [ ] 4. Separating Data and Instructions — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/04_Separating_Data_and_Instructions.ipynb)
 - [ ] 5. Formatting Output — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/05_Formatting_Output_and_Speaking_for_Claude.ipynb)
