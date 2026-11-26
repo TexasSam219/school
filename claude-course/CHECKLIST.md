@@ -63,7 +63,7 @@ Also: click **Run anyway** on the warning, then **Copy to Drive** to save your o
 - [ ] 0. Tutorial How-To — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/00_Tutorial_How-To.ipynb)
 - [ x] 1. Basic Prompt Structure — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/01_Basic_Prompt_Structure.ipynb)
 - [x] 2. Being Clear and Direct — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/02_Being_Clear_and_Direct.ipynb)
-- [ ] 3. Assigning Roles — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/03_Assigning_Roles_Role_Prompting.ipynb)
+- [ x] 3. Assigning Roles — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/03_Assigning_Roles_Role_Prompting.ipynb)
 - [ ] 4. Separating Data and Instructions — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/04_Separating_Data_and_Instructions.ipynb)
 - [ ] 5. Formatting Output — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/05_Formatting_Output_and_Speaking_for_Claude.ipynb)
 - [ ] 6. Thinking Step by Step — [open](https://githubtocolab.com/anthropics/courses/blob/master/prompt_engineering_interactive_tutorial/Anthropic%201P/06_Precognition_Thinking_Step_by_Step.ipynb)
